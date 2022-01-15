@@ -1,2 +1,2 @@
-# web-protfolio
+# web-portfolio
 repository pembuatan web portfolio
